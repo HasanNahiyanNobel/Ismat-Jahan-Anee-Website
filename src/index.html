@@ -1,0 +1,29 @@
+{% block meta %}
+{
+
+}
+{% endblock %}
+
+{% block content %}
+<!-- Custom CSS for Bootstrap icons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+
+<!-- Main Div -->
+<div>
+  <div class="container">
+    <h1>Ismat Jahan Anee</h1>
+  </div>
+
+  <!-- Footer -->
+  <div id="footer" class="bg-dark text-light" style="transform: translate(0,1.5rem)">
+    <!--
+      On the transformation of this footer:
+      The footer is actually **inside** the main div—which has a mb-4 class (meaning an 1.5rem margin at the bottom).
+      This is why a translation was needed—to cover the 1.5rem blank gap under the footer.
+    -->
+    <div class="container small text-center p-3">
+      <p class="mb-1">&copy; 2022, Ismat Jahan Anee</p>
+    </div>
+  </div>
+</div>
+{% endblock %}

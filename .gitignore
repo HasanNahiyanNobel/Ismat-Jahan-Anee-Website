@@ -1,0 +1,17 @@
+# Jetbrains configuration file
+.idea/
+
+# Python virtual environment
+venv/
+
+# NPM Modules
+src/node_modules/
+
+# GitHub file
+.github/
+
+# Firebase files
+.firebase/
+.firebaserc
+firebase.json
+firebase-debug.log
