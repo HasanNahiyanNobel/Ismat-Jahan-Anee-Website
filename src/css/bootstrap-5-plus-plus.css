@@ -4,8 +4,13 @@
 
 
 /******************************************************************************
- * Scrollbar
+ * Scrollbar and Scrolling
  *****************************************************************************/
+
+/* For padding in scrollspy */
+html {
+  scroll-padding-top: 75px;
+}
 
 /* Width */
 ::-webkit-scrollbar {
