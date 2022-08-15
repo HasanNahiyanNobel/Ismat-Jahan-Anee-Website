@@ -18,11 +18,11 @@ END_OF_BLOCK_MARKER = '{% endblock %}'
 
 TITLE_DEFAULT = 'Ismat Jahan Anee'
 DESCRIPTION_DEFAULT = 'Ismat Jahan Anee'
-IMAGE_DEFAULT = 'https://ismat-jahan-anee.web.app/images/cover_web_preview.png'  # TODO: Recheck this
+IMAGE_DEFAULT = 'https://ismat-jahan-anee.web.app/images/cover_web_preview.jpeg'
 AUTHOR_DEFAULT = 'Ismat Jahan Anee'
 OG_TYPE_DEFAULT = 'website'
-URL_DEFAULT_PREFIX = 'https://ismat-jahan-anee.web.app'  # TODO: Recheck this
-TWITTER_DOMAIN_DEFAULT = 'ismat-jahan-anee.web.app'  # TODO: Recheck this
+URL_DEFAULT_PREFIX = 'https://ismat-jahan-anee.web.app'
+TWITTER_DOMAIN_DEFAULT = 'ismat-jahan-anee.web.app'
 TWITTER_CARD_DEFAULT = 'summary_large_image'
 
 COPYRIGHT_LINE = '<!--\n---- This file was built using custom Python framework and was minified using npm html minifier.\n---- Copyright 2021-22, Hasan Nahiyan Nobel.\n--->'
