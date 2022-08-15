@@ -17,7 +17,7 @@ START_OF_CONTENT_BLOCK_MARKER = '{% block content %}'
 END_OF_BLOCK_MARKER = '{% endblock %}'
 
 TITLE_DEFAULT = 'Ismat Jahan Anee'
-DESCRIPTION_DEFAULT = 'Ismat Jahan Anee'
+DESCRIPTION_DEFAULT = 'Website of Ismat Jahan Anee'
 IMAGE_DEFAULT = 'https://ismat-jahan-anee.web.app/images/cover_web_preview.jpeg'
 AUTHOR_DEFAULT = 'Ismat Jahan Anee'
 OG_TYPE_DEFAULT = 'website'
