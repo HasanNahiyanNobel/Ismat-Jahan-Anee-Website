@@ -1,4 +1,4 @@
 This is a To-do list for general purposes.
 
-TODO: Fix the url of ReadMe.md.
+TODO: Update the favicon
 TODO: Collapse the navbar in mobile view after user-tap
