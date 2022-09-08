@@ -1,4 +1,3 @@
 This is a To-do list for general purposes.
 
 TODO: Update the favicon
-TODO: Collapse the navbar in mobile view after user-tap
