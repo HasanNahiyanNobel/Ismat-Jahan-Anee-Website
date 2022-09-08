@@ -34,7 +34,7 @@ html {
 
 
 /******************************************************************************
- * Text, fonts and unloaded div
+ * Text, fonts and colours
  *****************************************************************************/
 
 .justify-align {
@@ -43,6 +43,11 @@ html {
 
 .navbar, .container, .container-fluid {
   font-family: 'Newsreader', 'Noto Serif Bengali', serif;
+}
+
+.filter-grey {
+  /* To change colour of svg elements. Concept from: https://stackoverflow.com/a/53336754 */
+  filter: invert(68%) sepia(69%) saturate(0%) hue-rotate(214deg) brightness(98%) contrast(88%);
 }
 
 
