@@ -28,9 +28,9 @@ meta_twitter_domain = ''
 meta_twitter_card = ''
 
 # Format every .py file using yapf Google style
-py_files = glob.glob('*.py')
-for py_file in py_files:
-    os.system('yapf ' + py_file + ' -i --style google --no-local-style')
+# py_files = glob.glob('*.py')
+# for py_file in py_files:
+#     os.system('yapf ' + py_file + ' -i --style google --no-local-style')
 
 # Read pre- and post-contents from base file
 with open(BASE_FILE, encoding='utf-8') as f:
