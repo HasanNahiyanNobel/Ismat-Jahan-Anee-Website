@@ -34,7 +34,7 @@ html {
 
 
 /******************************************************************************
- * Text, fonts and colours
+ * Text, fonts, colours and transparency
  *****************************************************************************/
 
 .justify-align {
@@ -50,12 +50,20 @@ html {
   filter: invert(68%) sepia(69%) saturate(0%) hue-rotate(214deg) brightness(98%) contrast(88%);
 }
 
-.wordwrap{
+.wordwrap {
   /* Source: https://stackoverflow.com/a/1638824 */
   white-space: pre-wrap; /* CSS3 */
   white-space: -moz-pre-wrap; /* Firefox */
   white-space: -o-pre-wrap; /* Opera 7 */
   word-wrap: break-word; /* IE */
+}
+
+.img-light {
+  opacity: 50%;
+}
+
+.img-light:hover {
+  opacity: 100%;
 }
 
 
